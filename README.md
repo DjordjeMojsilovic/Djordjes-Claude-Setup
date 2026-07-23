@@ -20,7 +20,7 @@
 
 ## What's in here?
 
-This repo contains my complete Claude setup – the same configuration I use daily for coding, learning, decision-making and research. Everything is plug-and-play: download a skill, upload it to Claude, and it immediately changes how Claude responds.
+This repo contains my complete Claude setup(untill April 30) – the same configuration I use daily for coding, learning, decision-making and research. Everything is plug-and-play: download a skill, upload it to Claude, and it immediately changes how Claude responds.
 
 | File/Folder | Description |
 |---|---|
